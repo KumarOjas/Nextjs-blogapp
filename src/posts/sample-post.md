@@ -49,7 +49,7 @@ I’m currently working on:
 I’d love to hear from you—whether it’s feedback, collaboration ideas, or just to geek out about tech! Feel free to connect with me:
 
 - **GitHub**: [KumarOjas](https://github.com/KumarOjas)
-- **LinkedIn**: [Kumar Ojas](https://www.linkedin.com/in/kumarojas)
+- **LinkedIn**: [Kumar Ojas](linkedin.com/in/kumar-ojas-987610142/)
 - **CodeChef & LeetCode**: Where I sharpen my problem-solving skills.
 
 Thank you for stopping by! Stay tuned as I share insights, code snippets, and stories from my journey as a developer. Let’s learn and grow together! 🚀
